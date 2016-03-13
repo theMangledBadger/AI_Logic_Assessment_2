@@ -1,4 +1,5 @@
 import csv
+# Adding numpy dependency
 import numpy
 
 # Import file
