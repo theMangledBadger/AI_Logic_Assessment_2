@@ -1,5 +1,5 @@
 import csv
-
+import numpy
 
 # Import file
 training_file_data = "training_data.csv"
