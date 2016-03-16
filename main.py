@@ -5,7 +5,6 @@ import numpy
 # Import file
 training_file_data = "training_data.csv"
 
-
 def training_data_file_reader(file_path):
     # The neural net module we have requires two inputs:
     # a ist of training data lists as input on
